@@ -4,12 +4,7 @@ Fake news detection has recently attracted a growing interest from the general p
 
 ## Dataset Used:
 
-We scraped the fake data from [Faking News](fakingnews.com) of various categories which is as follows
-  - India,
-  - Politics,
-  - Entertainment,
-  - Technology
-We have a total of 299 samples of both real and fake news.
+Data scraping (both Real and Fake) was done with Selenium Web Browser Automation. The script written uses Selenium to crawl over all the links present in the url and extract Heading and Data part of it. Sources for the Fake news includes data from fakingnews.com, beforeitsnews.com, worldnewsdailyreport.com and for the Real news bbc.com, news.google.com, news18.com. Five categories of each fake and real news were extracted.The categories includes "India", "Politics", "Entertainment", "Sports", "Technology".
 
 ## Model
 
