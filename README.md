@@ -1,5 +1,7 @@
 # Fake News Detection
 
+[Link to the project](https://github.com/Pi-Rasp/Fake-News-Detection)
+
 ## Team members
 - Pranav Nair - 201525149 
 - Anirudh Kovuru - 20161189 
