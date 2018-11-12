@@ -9,3 +9,5 @@ Data scraping (both Real and Fake) was done with Selenium Web Browser Automation
 ## Model
 
 We have used an LSTM based model by taking GloVe feature vectors for word embedding. We conduct several experiments with different combinations of hyper-parameters. We have used binary cross entropy loss with Adam optimizer setting learning rate as 0.001 with a decay of 0.1. We ran it for 10 epochs with batch size 32. We have used ReLU activation function for LSTM and dense layers. Total 5,801,697 parameters has been trained. Model architecture has shown below.
+
+![Model Architecture](./Project_Arch.jpg)
