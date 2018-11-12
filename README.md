@@ -1,6 +1,6 @@
 # Fake News Detection
 
-[Link to the project](https://github.com/Pi-Rasp/Fake-News-Detection) \
+[Link to the project](https://github.com/Pi-Rasp/Fake-News-Detection) <br/>
 [Link to the video](https://youtu.be/nZ2tow-bIhE)
 
 ## Team members
